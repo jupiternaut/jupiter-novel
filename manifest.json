@@ -1,7 +1,7 @@
 {
   "title": "jupiter小说",
   "archive_date": "2026-09-26",
-  "source_format": "user-provided Markdown Q&A manuscripts",
+  "source_format": "user-provided Markdown Q&A manuscripts and local project files",
   "files": [
     {
       "path": "01-学科重构/076-认知带宽限制下的需求表达困境-5025e349.md",
@@ -23,6 +23,20 @@
       "bytes": 29558,
       "characters": 10370,
       "sha256": "5cfb6b4edb0f4516c2fd8f1f177c51f123b4e66a43c211dbcbc26d099e9286c2"
+    },
+    {
+      "path": "04-冬至日爬虫/crawler.py",
+      "source_filename": "crawler.py",
+      "bytes": 8773,
+      "characters": 7503,
+      "sha256": "79ba51506db0486e51437c26083d425b8a25637801d1a7df8f274b1d36cf045d"
+    },
+    {
+      "path": "04-冬至日爬虫/冬至日_穆成.txt",
+      "source_filename": "冬至日_穆成.txt",
+      "bytes": 2036809,
+      "characters": 712676,
+      "sha256": "b71fac5671b82123f6a8046145f10e22762a2f3eb2dddd068b1e7cea0a9e950f"
     }
   ]
 }
