@@ -1,0 +1,28 @@
+{
+  "title": "jupiter小说",
+  "archive_date": "2026-09-26",
+  "source_format": "user-provided Markdown Q&A manuscripts",
+  "files": [
+    {
+      "path": "01-学科重构/076-认知带宽限制下的需求表达困境-5025e349.md",
+      "source_filename": "076-认知带宽限制下的需求表达困境-5025e349.md",
+      "bytes": 103550,
+      "characters": 38041,
+      "sha256": "d8ea4d86dc9dd791ab727c22407f3976e925c00a100e5a678f7d07b4e18e0ae3"
+    },
+    {
+      "path": "02-EWD667与EWD668/015-自然语言与形式语言的关系-e82372a8.md",
+      "source_filename": "015-自然语言与形式语言的关系-e82372a8.md",
+      "bytes": 165314,
+      "characters": 72741,
+      "sha256": "2440abae4161ec48b8033f41e3350ad8a669fce5ff583af7178ea55cafe84e55"
+    },
+    {
+      "path": "03-归乡疫期/083-末日前夜的倒计时-284f486f.md",
+      "source_filename": "083-末日前夜的倒计时-284f486f.md",
+      "bytes": 29558,
+      "characters": 10370,
+      "sha256": "5cfb6b4edb0f4516c2fd8f1f177c51f123b4e66a43c211dbcbc26d099e9286c2"
+    }
+  ]
+}
